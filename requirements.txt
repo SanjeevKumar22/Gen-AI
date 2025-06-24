@@ -26,3 +26,6 @@ numpy
 scikit-learn
 
 streamlit
+pypdf
+langchain_community
+bs4
